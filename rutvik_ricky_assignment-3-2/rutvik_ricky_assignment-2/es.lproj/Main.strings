@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "6PX-yj-HZe"; */
+"6PX-yj-HZe.normalTitle" = "Add";
+
+/* Class = "UITextField"; placeholder = "Litres"; ObjectID = "Cta-rU-sc7"; */
+"Cta-rU-sc7.placeholder" = "Litres";
+
+/* Class = "UILabel"; text = "Total Gallons"; ObjectID = "E15-d2-YMR"; */
+"E15-d2-YMR.text" = "Total Gallons";
+
+/* Class = "UITextField"; placeholder = "Destination"; ObjectID = "ETQ-a4-PKD"; */
+"ETQ-a4-PKD.placeholder" = "Destination";
+
+/* Class = "UITabBarItem"; title = "Summary"; ObjectID = "o2b-OT-DiH"; */
+"o2b-OT-DiH.title" = "Summary";
+
+/* Class = "UITextField"; placeholder = "Source"; ObjectID = "tjm-Xt-0Xe"; */
+"tjm-Xt-0Xe.placeholder" = "Source";
+
+/* Class = "UITabBarItem"; title = "Data"; ObjectID = "ydN-Wi-Ksk"; */
+"ydN-Wi-Ksk.title" = "Data";
